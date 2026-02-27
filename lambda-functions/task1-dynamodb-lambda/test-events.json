@@ -1,0 +1,41 @@
+{
+    "store_profile_event": {
+        "operation": "store_profile",
+        "user_id": "user_12345",
+        "profile_data": {
+            "weak_topics": [
+                "Dynamic Programming",
+                "Graph Algorithms",
+                "Backtracking"
+            ],
+            "strong_topics": [
+                "Array",
+                "Hash Table",
+                "String",
+                "Two Pointers"
+            ],
+            "total_solved": 150
+        }
+    },
+    "get_profile_event": {
+        "operation": "get_profile",
+        "user_id": "user_12345"
+    },
+    "store_profile_advanced": {
+        "operation": "store_profile",
+        "user_id": "user_67890",
+        "profile_data": {
+            "weak_topics": [
+                "Tree",
+                "Binary Search",
+                "Bit Manipulation"
+            ],
+            "strong_topics": [
+                "Linked List",
+                "Stack",
+                "Queue"
+            ],
+            "total_solved": 75
+        }
+    }
+}

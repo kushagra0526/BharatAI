@@ -1,0 +1,35 @@
+{
+    "beginner_profile": {
+        "weak_topics": [
+            "Dynamic Programming",
+            "Graph Algorithms"
+        ],
+        "total_solved": 35
+    },
+    "intermediate_profile": {
+        "weak_topics": [
+            "Backtracking",
+            "Tree Traversal",
+            "Binary Search"
+        ],
+        "total_solved": 120
+    },
+    "advanced_profile": {
+        "weak_topics": [
+            "Advanced Graph Algorithms",
+            "Segment Trees",
+            "Trie"
+        ],
+        "total_solved": 250
+    },
+    "multiple_weak_topics": {
+        "weak_topics": [
+            "Dynamic Programming",
+            "Graph Algorithms",
+            "Backtracking",
+            "Bit Manipulation",
+            "Heap"
+        ],
+        "total_solved": 85
+    }
+}
