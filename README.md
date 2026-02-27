@@ -322,9 +322,10 @@ This is a hackathon project. Contributions welcome!
 
 ## 👥 Authors
 
--Leher Joshi(leader)
--Kushagra Pratap Singh
--Harshita Devnani
+- Leher Joshi(leader)
+- Kushagra Pratap Singh
+- Harshita Devnani
+
 
 
 
